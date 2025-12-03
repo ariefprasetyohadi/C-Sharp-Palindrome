@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BelajarCsharp3/1.0.0": {
+        "runtime": {
+          "BelajarCsharp3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BelajarCsharp3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

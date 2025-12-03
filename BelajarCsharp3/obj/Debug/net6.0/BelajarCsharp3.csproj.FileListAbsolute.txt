@@ -1,0 +1,15 @@
+/Users/shippo/BelajarCsharp3/bin/Debug/net6.0/BelajarCsharp3
+/Users/shippo/BelajarCsharp3/bin/Debug/net6.0/BelajarCsharp3.deps.json
+/Users/shippo/BelajarCsharp3/bin/Debug/net6.0/BelajarCsharp3.runtimeconfig.json
+/Users/shippo/BelajarCsharp3/bin/Debug/net6.0/BelajarCsharp3.dll
+/Users/shippo/BelajarCsharp3/bin/Debug/net6.0/BelajarCsharp3.pdb
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.csproj.AssemblyReference.cache
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.AssemblyInfoInputs.cache
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.AssemblyInfo.cs
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.csproj.CoreCompileInputs.cache
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.dll
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/refint/BelajarCsharp3.dll
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.pdb
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/BelajarCsharp3.genruntimeconfig.cache
+/Users/shippo/BelajarCsharp3/obj/Debug/net6.0/ref/BelajarCsharp3.dll
